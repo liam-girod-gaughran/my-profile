@@ -46,7 +46,12 @@ h2 {
 /* Image */
 
 .img-circle {
+  width: 300px;
+  height: 300px;
   border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
 
 
@@ -76,3 +81,4 @@ h2 {
   font-size: 22px;
   font-weight: bold;
 }
+
