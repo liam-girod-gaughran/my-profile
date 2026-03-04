@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Liam Girod-Gaughran's profile</title>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+ <div class="card-white" id="introduction">
+  <h1>Hello, I'm Liam ☺️</h1>
+  <img src="images/profile.jpg" class="img-circle" width="300px" alt="Liam Girod-Gaughran">
+  <p>
+	I am a 22-year-old French, Swiss, and Irish student in my final year of a master's degree in digital marketing and innovation at Iéseg Paris.
+</div>
+At the same time, I have been working part-time for over a year and a half at a luxury product design and creation agency.😎 
+ 
+ </div>
+
+ <div class="card-white">
+  <h2>Discovering new places 🌎</h2>
+  <p>
+  I am passionate about travelling at new places
+  </p>
+ </div>
+ 
+ <div class="card-white">
+  <h2> I am also a real food and gastronomy lover 🍣</h2>
+  <p>
+  Italy is my personnal favourite cuisine
+  </p>	
+ </div>
+
+ <div class="card-white">
+  <h2>Skiing, Cinema and Music ⛷️</h2>
+  <p>
+  One of my favourite activity ever is skiing, but I also am passionate about cinema and music
+  </p>
+ </div>
+
+<div class="card-white">
+  <h2>Friends & Family 👨‍👩‍👦‍👦</h2>
+  <p>
+  Spending time with people I love is essential for me
+  </p>
+ </div>
+
+ <div class="card-white">
+  <h2>Follow me on my socials !! 🌐</h2>
+  <ul class="list-inline">
+ 
+	</a>
+  </li>
+  <li>
+	<a href="https://www.linkedin.com/in/mahaut-fontrouge-3860a7222/"target="_blank">
+	<i class="fab fa-linkedin-in"></i>
+	</a>
+  </li>
+  <li>
+	<a href="https://www.instagram.com/liamgaughran/"target="_blank">
+	<i class="fab fa-instagram-square"></i>
+	</a>
+  </li>
+  </ul>
+ </div>
+</div>
+
+
+	</body>
+
+	</html>
