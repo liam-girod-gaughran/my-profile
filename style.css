@@ -82,5 +82,12 @@ h2 {
   font-weight: bold;
 }
 
+img.img-circle {
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+}
+
 
 
